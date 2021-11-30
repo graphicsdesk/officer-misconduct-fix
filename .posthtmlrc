@@ -6,13 +6,291 @@
     "posthtml-expressions": {
       "root": "./src/partials",
       "locals": {
-        "top": [],
-        "body": [],
+        "top": [
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "lede.html"
+            }
+          }
+        ],
+        "body": [
+          {
+            "type": "text",
+            "value": "By the time New York Police Department police officer Benjamin Gottlieb joined the 26th Precinct, which serves Morningside Heights and surrounding areas, the list of civilian complaints lodged against him was extensive."
+          },
+          {
+            "type": "text",
+            "value": "While allegations were raised against him starting in 1999 and eventually investigated by the Civilian Complaint Review Board—an independent oversight agency tasked with investigating complaints of NYPD misconduct—he did not receive a formal charge until February 2005 for stopping and questioning a 36-year-old Black woman while he was a police officer in a different precinct. Less than two years later, when he was promoted to serve as a sergeant, he received his next complaint that led the CCRB to call for disciplinary action to be taken."
+          },
+          {
+            "type": "text",
+            "value": "By the time he joined the 26th precinct as a sergeant, he had received another complaint in 2011, this time lodged by a 48-year-old Black man for discourtesy of word. Between his 2005 and 2011 charges, Gottlieb’s base salary rose by almost $36,000 and he had been promoted to a lieutenant."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "gottlieb.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "And yet, this was not the last line item on his list. Gottlieb received another complaint in 2017 that called for disciplinary action to be taken. By this point, his base salary had doubled his base pay from 2005."
+          },
+          {
+            "type": "text",
+            "value": "In the incidents where the CCRB determined that he should be disciplined or charged, all complainants were lodged by Black or Hispanic individuals."
+          },
+          {
+            "type": "text",
+            "value": "Gottlieb did not respond to requests to comment."
+          },
+          {
+            "type": "text",
+            "value": "Despite the five substantiated cases—meaning that the CCRB had evidence to support the complaint—of abused power and alleged misconduct in the last 20 years, Gottlieb is still an active member of the NYPD."
+          },
+          {
+            "type": "text",
+            "value": "While just one example, Gottlieb is one of six active police officers who have served in the 26th precinct in the last twenty years with civilian complaints deemed serious and substantial enough for the CCRB to recommend charges to be made."
+          },
+          {
+            "type": "text",
+            "value": "These 13 officers comprise 22 complaints deemed substantiated by an extensive investigation process through the CCRB to warrant disciplinary training or charges. Disciplinary action is less severe of a punishment."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "table.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Not only do these officers continue to work as NYPD officers, but six went on to higher positions."
+          },
+          {
+            "type": "text",
+            "value": "In analyzing the complaints lodged against active NYPD officers who both formerly and currently serve in the 26th precinct, Spectator found that of the most serious offenses with substantial evidence in which officers were recommended to be charged for misconduct, all but one instance targeted a Black man. Additionally, of the 13 officers that the CCRB recommended discipline to in some form, over half of them were subsequently promoted to higher ranked positions, according to public data of all NYC employees."
+          },
+          {
+            "type": "text",
+            "value": "Even among those who were not promoted, three officers saw their salaries drastically increase either through working overtime hours or pay raises. In one instance, an officer received a nearly $20,000 pay raise the year after receiving two charges of misconduct."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "tavares.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "In the 26th precinct, Black civilian complainants comprise 64 percent of the complainant pool. As national movements calling out police brutality and “defund[ing] the police” continue across the country, experts said that these findings are not surprising and are indicative of a great problem regarding police accountability."
+          },
+          {
+            "type": "text",
+            "value": "A NYPD spokesperson said in an email statement that the agency has been working for years to improve the internal disciplinary system."
+          },
+          {
+            "type": "text",
+            "value": "“[The NYPD] has increased penalties and required counseling for officers involved in DWI incidents and domestic violence incidents and requires mandatory dismissal for repeat offenders,” the spokesperson wrote."
+          },
+          {
+            "type": "text",
+            "value": "However, barriers to accountability for the NYPD start long before an officer is charged with misconduct. The CCRB, or the only independent board that investigates complaints filed against the NYPD, does not review complaints of biased policing. Biased policing complaints go straight to the police department itself. Out of over 3,000 complaints of biased policing across five years, the NYPD substantiated none, according to a 2019 report by the New York City Department of Education."
+          },
+          {
+            "type": "text",
+            "value": "Further, most incidents of police brutality go unchecked because historic mistrust between the community and police officers prevents complaints from being filed in the first place. While complaints can be submitted without interfacing with an officer, residents still fear retaliation, noted Rob Wright, the program director at the Center for Justice at Columbia University."
+          },
+          {
+            "type": "text",
+            "value": "“We don't feel the same protection of the law. If a person of color raises their voice or expresses their perspective, that’s seen as aggression,” Wright said. “Who’s going to protect you from retaliation? The police won’t.”"
+          },
+          {
+            "type": "text",
+            "value": "These sentiments have lingered in West Harlem from decades of <a href=\"https://www.columbiaspectator.com/news/2020/07/12/students-have-been-just-as-good-as-the-police-at-enforcing-the-legacy-of-enslavement-that-would-finance-and-expand-columbias-prestige/\">over policing</a><a href=\"https://www.columbiaspectator.com/news/2020/07/12/students-have-been-just-as-good-as-the-police-at-enforcing-the-legacy-of-enslavement-that-would-finance-and-expand-columbias-prestige/\">, according to local residents and activists. In 2014, after</a> hundreds of police officers stormed the Grant and Manhattanville housing projects, community members <a href=\"https://www.columbiaspectator.com/news/2014/06/11/after-harlem-gang-raid-anti-violence-advocates-seek-defuse-tensions/\">called for de-escalation</a><a href=\"https://www.columbiaspectator.com/news/2014/06/11/after-harlem-gang-raid-anti-violence-advocates-seek-defuse-tensions/\">, citing the lasting impact of police raids on younger kids who witnessed violent arrests. </a>"
+          },
+          {
+            "type": "text",
+            "value": "Anti-violence activist and community member Derrick Haynes pointed to."
+          },
+          {
+            "type": "text",
+            "value": "“I think the police department and [District Attorney's] office realized that the whole raids were a mistake,” Haynes said. “The community was not only overpoliced, but also we didn’t have the networks in place to provide basic services.”"
+          },
+          {
+            "type": "text",
+            "value": "Haynes said over policing of Black and brown residents and police accountability remains a major concern for the community."
+          },
+          {
+            "type": "text",
+            "value": "On top of poor relationships, Wright added that this lack of belief in the system prevents people from submitting a complaint."
+          },
+          {
+            "type": "text",
+            "value": "“Nothing’s going to happen to it. If it was an esteemed professor from Columbia maybe they’d do something, but they look at us and think we’re felons,” Wright said."
+          },
+          {
+            "type": "text",
+            "value": "Further, Wright said that most people are unaware of the system and process, which makes it difficult to bring police brutality to justice. The NYPD has not released specific details about their internal investigations into biased policing complaints beside the 2019 report, and has further attempted to block the CCRB from making their complaint data public."
+          },
+          {
+            "type": "text",
+            "value": "“Police have been a tool of oppression since they let us out of jails, and they will protect themselves first,” Wright said."
+          },
+          {
+            "type": "subhed",
+            "value": "Slipping through the cracks: The efficacy of the CCRB and complaints"
+          },
+          {
+            "type": "text",
+            "value": "In 1966, when the city considered adding civilians to the review board amid concerns over police brutality, discussions took place in Columbia’s <a href=\"http://spectatorarchive.library.columbia.edu/?a=d&d=cs19661024-01.2.13&srpos=1&e=-------en-20--1--txt-txIN-civilian+complaint------\">Furnald Hall</a>. The addition of civilians to the review board was intended to allow community members to hold police officers accountable for their actions."
+          },
+          {
+            "type": "text",
+            "value": "Former New York State Assemblyman William Green asserted that a CCRB “would not constitute a substantial danger to the efficient operation of the police force.” In response, lawyer Harold Forner argued that it could have an \"insidious influence on police commissioners.\""
+          },
+          {
+            "type": "text",
+            "value": "Yet these recent findings from the 26th Precinct cast doubt on the CCRB’s ability to hold the police accountable since the NYPD has the authority to reject the disciplinary actions recommended by the CCRB, CCRB spokesperson Colleen Roache said."
+          },
+          {
+            "type": "text",
+            "value": "“The Police Commissioner has sole authority to agree or disagree with the plea or findings and recommendations of the tribunal, and to impose, modify, or decline to impose discipline recommended against an officer,” CCRB press secretary Ethan Teicher said."
+          },
+          {
+            "type": "text",
+            "value": "So as almost 40 percent of complaints filed against NYPD officers in the 26th precinct are substantiated, meaning there exists evidence of the misconduct, this does not necessarily mean that any disciplinary action will be taken."
+          },
+          {
+            "type": "text",
+            "value": "In 2019, the NYPD Police Commissioner imposed discipline recommended by the CCRB 52 percent of the time during the first half of 2019, according to a CCRB bi-annual report. For cases where the CCRB recommended discipline, no discipline was imposed 14 percent of the time, which increased from 10 percent during the first half of 2018. And in cases involving charges, the penalty imposed was lower than what was requested of the CCRB 21 percent of the time in 2019."
+          },
+          {
+            "type": "text",
+            "value": "Further, while the CCRB can recommend disciplinary action, they list it under one of five categories ranging from minor to severe disciplinary status: instruction, formalized training, discipline A, discipline B or charges. The most severe—charges—clearly call for a prosecutorial process, whereas other disciplinary recommendations lack clear definitions and overlap with each other. Despite being more severe in punitive nature, Discipline B can still result in instruction or other minor disciplinary measures."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "ccrb-review-process.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Of the CCRB reviewed cases about 36 percent of cases are exonerated, meaning that the alleged conduct did not violate the NYPD’s guidelines. However, examples of exonerated conduct include the threat of arrest, physical force, and even a gun pointed at the complainant."
+          },
+          {
+            "type": "text",
+            "value": "Moreover, the CCRB can only review complaints that involve force, abuse of authority, discourtesy and offensive language. Anything outside of their jurisdiction is handled internally by the NYPD or another appropriate entity."
+          },
+          {
+            "type": "text",
+            "value": "The common justification for keeping police officers on the force is the lack of precedent for disciplinary action, Zack said. If a police chief fires one employee but not another for the same charge, the fired employee may have grounds to protest their release from duty."
+          },
+          {
+            "type": "text",
+            "value": "Zack added that the more common practice for police forces is the use of progressive discipline, where an officer is disciplined more if it is a repeated offense."
+          },
+          {
+            "type": "text",
+            "value": "For the community, the findings maintained Harlem residents’ long standing belief that the police were not held accountable for their actions."
+          },
+          {
+            "type": "text",
+            "value": "“This review system needs to be reviewed,” Haynes said. “The problem has persisted for years. We knew cops would be breaking their own rules, their own laws, and training. Something needs to be done.”"
+          },
+          {
+            "type": "subhed",
+            "value": "Pay raises and promotions"
+          },
+          {
+            "type": "text",
+            "value": "Gottlieb was not the only 26th precinct officer who was subsequently promoted after having disciplinary charges recommended to be raised against them. Six other former 26th precinct officers moved up from police officers to either detectives, lieutenants, or deputy inspector positions."
+          },
+          {
+            "type": "text",
+            "value": "Of those not promoted, three officers who the CCRB recommended have disciplinary action or charges taken against them also saw pay raises or worked more overtime. Even in the best case scenario for a complaint being investigated—where it was substantiated—these officers were still allowed to personally and professionally advance through the ranks of the NYPD."
+          },
+          {
+            "type": "text",
+            "value": "In 2006 the CCRB recommended charges be made against the then 26th precinct officer Michael Scoloveno for the vehicle search of a 31-year-old white woman. In the following five years, he had an additional 19 complaints lodged against him, only one of which resulted in the CCRB recommending disciplinary action. Scoloveno now serves as a detective on the Gang Squad Brooklyn North."
+          },
+          {
+            "type": "text",
+            "value": "Scoloveno’s base salary has increased by over $60,000 since 2005."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "scoloveno.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Additionally, the former 26th precinct police officer Ronnie Morales received four recommended charges for stop-and-frisk, search of a person, and refusing to provide his name or shield number to a 33-year-old Black man in 2009. Despite the four charges, he went on to become a detective on the Brooklyn Robbery Squad."
+          },
+          {
+            "type": "text",
+            "value": "Morales’ base salary has increased by over $52,000 since 2009."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "morales.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "The CCRB also recommended charges be taken against officer Robert Cattani for refusing to show his shield number to a 33-year-old Black man in 2009. Despite the complaint, his base salary rose by $6,814 in 2010. He now makes over $67,000 more and works nearly twice as many hours in overtime, totaling 379 hours in 2018."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "cattani.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "The NYPD did not comment on the promotion or pay raises for the officers with disciplinary actions or charges raised against them following CCRB investigations."
+          },
+          {
+            "type": "text",
+            "value": "According to Arnold Zack, a Harvard Law School senior research association and longtime labor arbitrator, police overtime assignments are typically assigned systematically, and the act of denying overtime shifts to an officer could lead to more internal conflict or employees feeling that they are being targeted."
+          },
+          {
+            "type": "text",
+            "value": "Furthermore, Zack said the internal complaint and review system favors keeping officers and trying to correct their behavior instead of firing them."
+          },
+          {
+            "type": "text",
+            "value": "“The whole idea is to rehabilitate them as police departments have put in the time and money to train their officers,” Zack said."
+          },
+          {
+            "type": "text",
+            "value": "Haynes said the pay raises and overtime work sent the wrong message to police officers and the values of the police department."
+          },
+          {
+            "type": "text",
+            "value": "“It’s almost like rewarding the bad cops,” he said. “They’re rewarding that officer with more pay and additional hours, which may make them more prone to misconduct or aggression.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>News Editor Stephanie Lai can be contacted at </i><i>stephanie.lai@columbiaspectator.com</i><i>. Follow her on Twitter </i><a href=\"https://twitter.com/stephaniealai\"><i>@stephaniealai</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Editor Raeedah Wahid can be contacted at </i><i>raeedah.wahid@columbiaspectator.com</i><i>. Follow her on Twitter </i><a href=\"https://twitter.com/raeedahwahid\"><i>@raeedahwahid</i></a><i>.</i>"
+          }
+        ],
+        "headline": "What happened to NYPD officers who were charged with misconduct? They were promoted or paid more.",
+        "date": "Sept. 22, 2020",
+        "byline": "<a href=\"https://www.columbiaspectator.com/contributors/stephanie-lai/\">Stephanie Lai</a> and <a href=\"https://www.columbiaspectator.com/contributors/Raeedah-Wahid/\">Raeedah Wahid</a>",
+        "footer": "Spectator compiled the salaries of current NYPD officers who work or previously worked in the 26th precinct with complaints filed against them. See our data <a href=\"https://github.com/graphicsdesk/50-A\"><b>here</b></a>. \n\nGraphics fellow Andrew Park contributed to data analysis. Graphics fellow Melissa Wang contributed reporting. To learn more about the Spectator Summer Fellowship program, click <a href=\"http://www.specpublishing.com/summer-fellowship\">here.</a>",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
         "USE_COVER_HED": false,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/17Pbgb-flgJlLa9i5G3t6o4ytbi9UcPqouo42amyc4JE/edit"
       }
     }
   }
